@@ -1,0 +1,2 @@
+Since during the simulation it is not possible to send data via Bluetooth from a physical device, it is necessary to simulate the connection of several devices via Bluetooth. To simulate the connection of two devices via UART, it is convenient
+use the program "Virtual Serial Ports Emulator", with which you can create a pair of virtual ports connected to each other, thereby simulating the connection of several (in our case, two) devices via Bluetooth.

@@ -1,0 +1,7 @@
+# MS Visual Studio #
+.vs
+Debug/
+
+# Proteus #
+**/*.workspace
+**/*.pdsbak
